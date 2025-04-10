@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I´m Paulo Mota 👋
+
+Stack:
+Java | Spring | Microservices | AWS | TypeScript | Nest.js | React
 
 <!--
 **paulomota/paulomota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
